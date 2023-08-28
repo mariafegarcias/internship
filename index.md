@@ -6,9 +6,9 @@
 <div class="container">
   <p class="titletext" >Selection of projects in </p>
   <div class="animation">
-    <div class="first"><div>Deep Learning</div></div>
-    <div class="second"><div>Data Analytics</div></div>
-    <div class="third"><div>Data Visualization</div></div>
+    <div class="first"><div>Studies</div></div>
+    <div class="second"><div>Volunteering</div></div>
+    <div class="third"><div>Projects</div></div>
   </div>
 </div>
 ---
