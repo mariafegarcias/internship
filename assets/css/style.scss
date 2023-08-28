@@ -478,12 +478,12 @@ filter: gray;
 
 .ulreseau li a:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #5AAA95;
+  box-shadow: 0 0 15px #388087;
 }
 
 .ulreseau li a:hover {
   color: #388087;
-  box-shadow: 0 0 5px #5AAA95;
+  box-shadow: 0 0 5px #388087;
   text-shadow: 0 0 5px #5AAA95;
 }
 
@@ -518,7 +518,7 @@ figcaption {
 }
 
 .linkedinlink {
-  box-shadow: inset 0 0 0 0 #54b3d6;
+  box-shadow: inset 0 0 0 0 #388087;
   color: #54b3d6;
 	padding: 0 .25rem;
 	margin: 0 -.25rem;
@@ -526,7 +526,7 @@ figcaption {
 }
 .linkedinlink:hover {
   color: #388087;
-  box-shadow: inset 200px 0 0 0 #54b3d6;
+  box-shadow: inset 200px 0 0 0 #388087;
 }
 
 nav ul {
