@@ -8,7 +8,7 @@
 
 body {
   font-family:'Alata';
-  background-color: #6FB3B8;  
+  background-color: #F6F6F2;  
 }
 
 
@@ -47,7 +47,7 @@ section {
 
 .spotify {
   --s: 300px;   /* the size of the image */
-  --b: 1px;     /* the border thickness*/
+  --b: 0px;     /* the border thickness*/
   --g: 12px;    /* the gap */
   --c: #388087; /* the color */
   
@@ -477,7 +477,7 @@ filter: gray;
 }
 
 .ulreseau li a:hover {
-  color: #ffee10;
+  color: #388087;
   box-shadow: 0 0 5px #5AAA95;
   text-shadow: 0 0 5px #5AAA95;
 }
@@ -520,7 +520,7 @@ figcaption {
   transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
 }
 .linkedinlink:hover {
-  color: #fff;
+  color: #388087;
   box-shadow: inset 200px 0 0 0 #54b3d6;
 }
 
