@@ -3,13 +3,27 @@
 
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Alata&family=Lora:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Caprasimo:400');
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Lora:wght@400;700&family=Mukta:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@200&display=swap');
 
 body {
   font-family:'Alata';
   background-color: #6FB3B8;  
 }
+
+
+.github-icon {
+  color: #388087; 
+}
+
+.linkedin-icon {
+  color: #388087; 
+}
+
+.envelope-icon {
+  color: #388087; 
+}
+
 
 header {
   display: flex;
@@ -33,9 +47,9 @@ section {
 
 .spotify {
   --s: 300px;   /* the size of the image */
-  --b: 10px;     /* the border thickness*/
+  --b: 1px;     /* the border thickness*/
   --g: 12px;    /* the gap */
-  --c: #1DB954; /* the color */
+  --c: #388087; /* the color */
   
   width: var(--s);
   aspect-ratio: 1;
@@ -67,7 +81,7 @@ section {
 
 .spotifytext {
   opacity: 0;
-  color: #00C26D;
+  color: #F6F6F2;
   font-family:'Raleway';
   text-align: center;
   font-size: 1.75rem;
@@ -96,7 +110,7 @@ section {
 .BNFtext {
   opacity: 0;
   color: white;
-  font-family:'Raleway';
+  font-family:'Mukta';
   text-align: center;
   font-size: 1.75rem;
   overflow: hidden;
