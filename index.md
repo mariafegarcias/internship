@@ -13,11 +13,11 @@
 </div>
 ---
 
-<p class="titletext" >SPOTIFY TREND VISUALIZATION</p>
+<p class="titletext" >Sciences for a sustainable world</p>
 
 <div class="spotifywrapper">
-    <a href="./spotify"><img src="images/spotify.png?raw=true" alt="spotify" class="spotify"/></a>
-    <p class="spotifytext">Evolution of musical characteristics worldwide over the year.</p>
+    <a href="./spotify"><img src="images/PSL.jpeg?raw=true" alt="spotify" class="spotify"/></a>
+    <p class="spotifytext">Pluridisciplinar bachelor</p>
 </div>
 <br>
 
