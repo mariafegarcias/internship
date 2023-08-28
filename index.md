@@ -23,7 +23,7 @@
 
 ---
 
-<p class="titletext" >PHENOTYPE PREDICTION FROM FUNCTIONAL BRAIN ACTIVITY</p>
+<p class="titletext" >Volunteering</p>
 
 <div class="neurowrapper">
 <a href="./neuroscience">
@@ -40,7 +40,7 @@
 
 ---
 
-<p class="titletext" >WATERMARK EMBEDDING IN DEEP NEURAL NETWORKS</p>
+<p class="titletext" >PSE Internship</p>
 
 <div class="neuralwrapper">
     <a href="./watermark"><img src="images/neuralnetwork.jpg?raw=true" alt="neural network" class="blur"/></a>
@@ -50,7 +50,7 @@
 
 ---
 
-<p class="titletext" >DEEP LEARNING OPTIMIZATION</p>
+<p class="titletext" >Extras</p>
 
 <div class="optiwrapper">
     <a href="./optimization"><img src="images/opti.jpg?raw=true" alt="optimization" class="opti"/></a>
