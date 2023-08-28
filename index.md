@@ -16,13 +16,10 @@
 <p class="titletext" >Sciences for a sustainable world</p>
 
 <div class="spotifywrapper">
-  <a href="URL" class="spotify-link">
-    <img src="images/PSL.jpeg?raw=true" alt="spotify" class="spotify" id="first-photo"/>
-    <img src="images/photo2.jpeg?raw=true" alt="spotify" class="spotify" id="second-photo"/>
-  </a>
-  <p class="spotifytext">A pluridisciplinary bachelor</p>
+    <a href="./spotify"><img src="images/PSL.jpeg?raw=true" alt="spotify" class="spotify"/></a>
+    <p class="spotifytext">A pluridisciplinar bachelor</p>
 </div>
-<br>
+<br> 
 
 
 ---
