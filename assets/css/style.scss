@@ -74,23 +74,45 @@ section {
   border-radius: 50%;
   
 }
+  
 .spotify:hover {
   outline: var(--b) solid var(--c);
   outline-offset: var(--g);
+	width: 300px; /* Adjust size as needed */
+  height: auto;
 }
-
-
 .spotifywrapper {
-  display: flex;
+  display: inline-block;
   align-items: center;
   flex-direction: column;
   justify-content: center;
+	position: relative;
 }
 
 .spotifywrapper:hover .spotifytext {
   height: 5rem;
   opacity: 1;
   transform: translate(0, 30px);
+}
+
+#second-photo {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.spotify-link {
+  display: inline-block;
+  position: relative;
+}
+
+.spotify-link:hover #first-photo {
+  display: none;
+}
+
+.spotify-link:hover #second-photo {
+  display: block;
 }
 
 .spotifytext {
