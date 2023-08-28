@@ -80,7 +80,7 @@ section {
   outline-offset: var(--g);
 }
 .spotifywrapper {
-  display: inline-block;
+  display: relative;
   align-items: center;
   flex-direction: column;
   justify-content: center;
