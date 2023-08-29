@@ -64,27 +64,6 @@ section {
   height: auto;
 }
 
-#second-photo {
-  display: none;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.SMD-link {
-  display: inline-block;
-  position: relative;
-}
-
-.SMD-link:hover #first-photo {
-  display: none;
-}
-
-.SMD-link:hover #second-photo {
-  display: block;
-  cursor: pointer;
-}
-
 
 .wrapper {
   width:1160px;
