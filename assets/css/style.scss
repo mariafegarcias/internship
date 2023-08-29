@@ -246,7 +246,7 @@ section {
 
 .blur{
 transition: 1s ease;
-filter: grayscale(50%) blur(15px);
+filter: grayscale(100%) blur(15px);
 width: 300px;
 aspect-ratio: 1;
 object-fit: cover;
@@ -256,7 +256,7 @@ border-radius: 50%;
 
 .blur:hover {
 transition: 1s ease;
-filter: grayscale(0%) blur(0px);
+filter: grayscale(100%) blur(0px);
 filter: white;
 }
 
@@ -275,7 +275,7 @@ filter: white;
 
 .neuraltext {
   opacity: 1;
-  color: #f6f62;
+  color: white;
   font-family:'Alata';
   text-align: center;
   font-size: 1.75rem;
