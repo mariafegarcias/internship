@@ -85,9 +85,6 @@ section {
   cursor: pointer;
 }
 
-document.getElementById("second-photo").addEventListener("click", function() {
-  window.location.href = "https://psl.eu/formation/sciences-monde-durable"; // Replace with the desired URL
-});
 
 .wrapper {
   width:1160px;
