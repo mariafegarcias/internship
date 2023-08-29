@@ -16,9 +16,9 @@
 <p class="titletext" >Sciences for a sustainable world</p>
 
 <div class="SMDwrapper">
-  <a href="./SMD" class="SMD-link">
-    <img src="images/PSL.jpeg?raw=true" alt="SMD" class="SMD" id="first-photo"/>
-    <img src="images/photo2.png?raw=true" alt="SMD" class="SMD" id="second-photo"/>
+  <a href="./SMD">
+    <img src="images/PSL.jpeg?raw=true" alt="SMD" class="SMD">
+    <img src="images/photo2.png?raw=true" alt="SMD" class="SMD">
   </a>
   <p class="SMDtext">A pluridisciplinary bachelor</p>
 
