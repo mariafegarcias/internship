@@ -17,7 +17,7 @@
 
 <div class="neuralwrapper">
     <a href="./watermark"><img src="images/PSL.jpeg?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neurotext">Pluridisciplinary bachelor.</p>
+    <p class="neuraltext">Pluridisciplinary bachelor.</p>
 </div>
 <br> 
 
