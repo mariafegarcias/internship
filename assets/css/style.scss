@@ -234,7 +234,7 @@ section {
 .neurotext {
   opacity: 0;
   color: white;
-  font-family:'Raleway';
+  font-family:'Alata';
   text-align: center;
   font-size: 1.75rem;
   overflow: hidden;
@@ -246,7 +246,7 @@ section {
 
 .blur{
 transition: 1s ease;
-filter: grayscale(100%) blur(15px);
+filter: grayscale(50%) blur(15px);
 width: 300px;
 aspect-ratio: 1;
 object-fit: cover;
@@ -257,7 +257,7 @@ border-radius: 50%;
 .blur:hover {
 transition: 1s ease;
 filter: grayscale(0%) blur(0px);
-filter: gray;
+filter: white;
 }
 
 .neuralwrapper {
@@ -275,8 +275,8 @@ filter: gray;
 
 .neuraltext {
   opacity: 0;
-  color: #0AAFFC;
-  font-family:'Raleway';
+  color: #f6f62;
+  font-family:'Alata';
   text-align: center;
   font-size: 1.75rem;
   overflow: hidden;
