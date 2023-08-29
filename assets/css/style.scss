@@ -64,6 +64,45 @@ section {
   height: auto;
 }
 
+.cutiewrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.cutiewrapper:hover .cutietext {
+  height: 5rem;
+  opacity: 1;
+  transform: translate(0, 30px);
+}
+
+.cutietext {
+  opacity: 0;
+  color: white;
+  font-family: 'Alata';
+  text-align: center;
+  font-size: 1.75rem;
+  overflow: hidden;
+  width: 35rem;
+  height: 1rem;
+  transition: 2s ease;
+}
+
+.cutieimage {
+  width: 200px; /* Adjust size as needed */
+  height: auto;
+  transition: transform 1s ease; /* Add the transition property */
+}
+
+.cutiewrapper:hover .cutieimage#first-image {
+  transform: translateY(-100%); /* Slide up to reveal the second image */
+}
+
+.cutiewrapper:hover .cutieimage#second-image {
+  transform: translateY(0); /* Slide up to reveal the second image */
+}
+
 
 .wrapper {
   width:1160px;
