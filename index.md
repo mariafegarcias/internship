@@ -47,12 +47,13 @@
 <p class="titletext" >Extra</p>
 
 <div class="cutiewrapper">
-  <a href="./https://psl.eu/formation/sciences-monde-durable">
+  <div class="cutieimage-container">
     <img src="images/PSL.jpeg?raw=true" alt="First Picture" class="cutieimage" id="first-image"/>
     <img src="images/photo2.png?raw=true" alt="Second Picture" class="cutieimage" id="second-image"/>
-  </a>
+  </div>
   <p class="cutietext">Your text here</p>
 </div>
+
 
 
 
