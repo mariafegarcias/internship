@@ -82,6 +82,9 @@ section {
   width: 100%; /* Make images fill their container */
   height: auto;
   transition: transform 1s ease; /* Add the transition property */
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .cutiewrapper:hover .cutieimage#first-image {
@@ -109,6 +112,7 @@ section {
   opacity: 1;
   transform: translate(0, 30px);
 }
+
 
 .wrapper {
   width:1160px;
