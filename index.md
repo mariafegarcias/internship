@@ -41,16 +41,6 @@
 </div>
 <br>
 
----
-
-<p class="titletext" >Extras</p>
-
-<div class="optiwrapper">
-    <a href="./optimization"><img src="images/opti.jpg?raw=true" alt="optimization" class="opti"/></a>
-    <p class="optitext">Experimenting with various ways to optimize efficiency of a convolutional neural network, as part of a competition where we finished second.</p>
-</div>
-
-<br>
 
 ---
 
