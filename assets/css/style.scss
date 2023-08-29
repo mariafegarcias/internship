@@ -71,28 +71,10 @@ section {
   justify-content: center;
 }
 
-.cutieimage-container {
-  position: relative;
-  width: 200px; /* Adjust size as needed */
-  height: auto;
-  overflow: hidden;
-}
-
-.cutieimage {
-  width: 100%; /* Make images fill their container */
-  height: auto;
-  transition: transform 1s ease; /* Add the transition property */
-  position: absolute;
-  top: 0;
-  left: 0;
-}
-
-.cutiewrapper:hover .cutieimage#first-image {
-  transform: translateX(-100%); /* Slide the first image to the left */
-}
-
-.cutiewrapper:hover .cutieimage#second-image {
-  transform: translateX(0); /* Slide the second image to the right */
+.cutiewrapper:hover .cutietext {
+  height: 5rem;
+  opacity: 1;
+  transform: translate(0, 30px);
 }
 
 .cutietext {
@@ -107,12 +89,19 @@ section {
   transition: 2s ease;
 }
 
-.cutiewrapper:hover .cutietext {
-  height: 5rem;
-  opacity: 1;
-  transform: translate(0, 30px);
+.cutieimage {
+  width: 200px; /* Adjust size as needed */
+  height: auto;
+  transition: transform 1s ease; /* Add the transition property */
 }
 
+.cutiewrapper:hover .cutieimage#first-image {
+  transform: translateX(-100%); /* Slide to the left to reveal the second image */
+}
+
+.cutiewrapper:hover .cutieimage#second-image {
+  transform: translateX(0); /* Slide to the left to reveal the second image */
+}
 
 .wrapper {
   width:1160px;
