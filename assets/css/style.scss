@@ -256,7 +256,7 @@ border-radius: 50%;
 
 .blur:hover {
 transition: 1s ease;
-filter: grayscale(100%) blur(0px);
+filter: grayscale(0%) blur(0px);
 filter: white;
 }
 
@@ -268,7 +268,7 @@ filter: white;
 }
 
 .neuralwrapper:hover .neuraltext {
-  height: 10rem;
+  height: 2rem;
   opacity: 1;
   transform: translate(0, 30px);
 }
