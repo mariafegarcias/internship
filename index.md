@@ -15,14 +15,12 @@
 
 <p class="titletext" >Sciences for a sustainable world</p>
 
-<div class="neurowrapper">
-  <a href="./neuroscience">
-<div class="neurogallery">
+<div class="neuralwrapper">
+    <a href="./watermark"><img src="images/PSL.jpeg?raw=true"" alt="neural network" class="blur"/></a>
+    <p class="neuraltext"> A pluridisciplinar bachelor</p>
   <img src="images/PSL.jpeg?raw=true" alt="cerveau 1">
   <img src="images/photo2.png?raw=true" alt="cerveau 2">
-   </div>
   </a> 
-    <p class="neurotext">A pluridisciplinar bachelor</p>
 </div>
 <br> 
 
