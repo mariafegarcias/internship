@@ -97,7 +97,6 @@ section {
 
 .cutiewrapper:hover .cutieimage#first-image {
   transform: translateX(-100%); /* Slide to the left to reveal the second image */
-	opacity: 1;
 }
 
 .cutiewrapper:hover .cutieimage#second-image {
