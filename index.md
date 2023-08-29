@@ -15,9 +15,14 @@
 
 <p class="titletext" >Sciences for a sustainable world</p>
 
-<div class="spotifywrapper">
-    <a href="./spotify"><img src="images/PSL.jpeg?raw=true" alt="spotify" class="spotify"/></a>
-    <p class="spotifytext">A pluridisciplinar bachelor</p>
+<div class="neurowrapper">
+  <a href="./neuroscience">
+<div class="neurogallery">
+  <img src="images/PSL.jpeg?raw=true" alt="cerveau 1">
+  <img src="images/photo2.png?raw=true" alt="cerveau 2">
+   </div>
+  </a> 
+    <p class="neurotext">A pluridisciplinar bachelor</p>
 </div>
 <br> 
 
