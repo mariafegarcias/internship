@@ -96,11 +96,11 @@ section {
 }
 
 .cutiewrapper:hover .cutieimage#first-image {
-  transform: translateX(-100%); /* Slide to the left to reveal the second image */
+  transform: translateX(-60%); /* Slide to the left to reveal the second image */
 }
 
 .cutiewrapper:hover .cutieimage#second-image {
-  transform: translateX(0); /* Slide to the left to reveal the second image */
+  transform: translateX(60%); /* Slide to the left to reveal the second image */
 }
 
 .wrapper {
