@@ -54,6 +54,41 @@ section {
   padding-bottom:50px;
 }
 
+.SMDwrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.SMD {
+  width: 300px; /* Adjust size as needed */
+  height: auto;
+}
+
+#second-photo {
+  display: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.SMD-link {
+  display: inline-block;
+  position: relative;
+}
+
+.SMD-link:hover #first-photo {
+  display: none;
+}
+
+.SMD-link:hover #second-photo {
+  display: block;
+  cursor: pointer;
+}
+
+document.getElementById("second-photo").addEventListener("click", function() {
+  window.location.href = "https://psl.eu/formation/sciences-monde-durable"; // Replace with the desired URL
+});
+
 .wrapper {
   width:1160px;
   margin:0 auto;
