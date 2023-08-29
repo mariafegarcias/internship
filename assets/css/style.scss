@@ -246,7 +246,7 @@ section {
 
 .blur{
 transition: 1s ease;
-filter: grayscale(100%) blur(15px);
+filter: grayscale(0%) blur(15px);
 width: 300px;
 aspect-ratio: 1;
 object-fit: cover;
@@ -268,7 +268,7 @@ filter: white;
 }
 
 .neuralwrapper:hover .neuraltext {
-  height: 2rem;
+  height: 5rem;
   opacity: 1;
   transform: translate(0, 30px);
 }
