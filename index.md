@@ -51,7 +51,7 @@
     <img src="images/PSL.jpeg?raw=true" alt="First Picture" class="cutieimage" id="first-image"/>
     <img src="images/photo2.png?raw=true" alt="Second Picture" class="cutieimage" id="second-image"/>
   </div>
-  <p class="cutietext">Your text here</p>
+  <p class="cutietext">skutieskutie sktuie bebzou moment</p>
 </div>
 
 
