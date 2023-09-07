@@ -44,7 +44,7 @@
 
 ---
 
-<p class="titletext" >Extra</p>
+<!-- <p class="titletext" >Extra</p>
 
 <div class="cutiewrapper">
   <div class="cutieimage-container">
@@ -52,7 +52,7 @@
     <img src="images/photo2.png?raw=true" alt="Second Picture" class="cutieimage" id="second-image"/>
   </div>
   <p class="cutietext">skutieskutie sktuie bebzou moment</p>
-</div>
+</div> -->
 
 
 
