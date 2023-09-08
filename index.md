@@ -33,6 +33,14 @@
 
 ---
 
+<p class="titletext" >Projects</p>
+
+<div class="neuralwrapper">
+    <a href="./watermark"><img src="images/pse.jpeg?raw=true" alt="neural network" class="blur"/></a>
+    <p class="neuraltext">Economical, environnemental, and statistical projects I have worked on. </p>
+</div>
+<br>
+
 
 
 
