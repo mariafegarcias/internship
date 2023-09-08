@@ -2,22 +2,11 @@
 ---
 
 ---
-
-<div class="container">
-  <p class="titletext" >Selection of projects in </p>
-  <div class="animation">
-    <div class="first"><div>Studies</div></div>
-    <div class="second"><div>Volunteering</div></div>
-    <div class="third"><div>Projects</div></div>
-  </div>
-</div>
----
-
 <p class="titletext" >Sciences for a sustainable world</p>
 
 <div class="neuralwrapper">
     <a href="./watermark"><img src="images/PSL.jpeg?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Pluridisciplinary bachelor.</p>
+    <p class="neuraltext">Pluridisciplinary bachelor centered around sustainability topics.</p>
 </div>
 <br> 
 
@@ -44,15 +33,6 @@
 
 ---
 
-<!-- <p class="titletext" >Extra</p>
-
-<div class="cutiewrapper">
-  <div class="cutieimage-container">
-    <img src="images/PSL.jpeg?raw=true" alt="First Picture" class="cutieimage" id="first-image"/>
-    <img src="images/photo2.png?raw=true" alt="Second Picture" class="cutieimage" id="second-image"/>
-  </div>
-  <p class="cutietext">skutieskutie sktuie bebzou moment</p>
-</div> -->
 
 
 
