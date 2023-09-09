@@ -12,7 +12,6 @@ During the second semester of 2022-2023 I did an internship at PSE (Paris School
 <br>
 <br>
 My first mission during this internship was mainly to clean the data of the gender wage gap salary between engineering schools. So, I had the mean wage of female and male students for each engineering school in France. I also did some literature review on the subjects of Women in STEM. My second mission was to treat the data by creating a Stata code that will match all the information gathered by another dataset according to the schools and the year. In order to do that, I had to create the code to merge many large datasets to analyze the data afterwards. </p>
-<br>
 
 <h1 class="prestextintro">Internship Report</h1>
 <p class="articletext">
