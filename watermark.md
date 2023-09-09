@@ -1,13 +1,14 @@
 
 ---
 
-<p class="titletext">WATERMARKING OF DEEP CNN</p>
+<p class="titletext">Winter/Fall Internship 2023 at PSE</p>
 
 ---
 
 <h1 class="articletext">Introduction</h1>
 
-<p class="articletext">In order to protect the intellectual property of fully trained models, which often take time, money and effort to develop, neural network watermarking is receiving increasing attention over the last several years. Lots of factors need to be taken into account when designing a watermarking scheme : among them is the robustness criterion, which stipulates that the watermark should be resistant to retraining of the model, pruning of the model, and overwriting (putting another watermark on the same model should not erase the previous one). Moreover, the watermarking scheme should not affect the model's accuracy. <br><br> The first idea and implementation of such an algorithm was proposed <a href="https://arxiv.org/abs/1701.04082" class="linkedinlink">by Uchida et al. in 2017.</a> The idea was to embed a binary message inside of the weight repartition of a deep convolutional neural network. The message is embedded during the training phase and can be recovered by anyone having access to the weight distribution, if he possesses the secret key that was used during the embedding process. It may not seem ideal that one need to have access to the weights in order to recover the message (what is called a "white-box approach", but <a href="https://arxiv.org/abs/1906.07745" class="linkedinlink">it has been showed</a> that the alternative (i.e recover the watermark only by querying the model) necessarily impact the model's accuracy. Here, I will implement Uchida's algorithm, highlight its strenghts and weaknesses on a model trained on the CIFAR 10 and MNIST datasets, then implement a more recent and robust algorithm, <a href="https://arxiv.org/abs/1910.14268" class="linkedinlink">RIGA</a>, that takes inspiration from GANs to make up for the shortcomings of Uchida. The notebook with all the codes is available <a href="https://colab.research.google.com/drive/1DUnfiuhqV2FR3V9jndP47zLTmsFhyNh2" class="linkedinlink">here</a> </p> 
+<p class="articletext"> During the second semester of 2022-2023 I did an internship at PSE (Paris School of Economics) working for Lea Dousset and Cecile Bonneau, both PhD doctorates on the article on the gender wage gap between star classes and non star classes Competition Sticks! Gender Gap in Top Higher Education Science Programs. 
+My main mission was to do data cleaning and then data treatment with the Stata program. In addition I did some litterature review on the subject of gender gap inequalities in competitive fields.</p> 
 
 ---
 
