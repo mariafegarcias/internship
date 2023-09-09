@@ -19,5 +19,8 @@ Moreover for my internship report I conducted my own research on the “She-Cess
 <br>
 <br>
 To pursue my research, I analyzed the decomposition of the salary according to the data I had. Finding showed that the bonus wage had a very important weight in this gender gap. To evaluate the weight of the bonus wage in the general gender gap I did a quartile decomposition. The bonus wage gender gap explains around 60% to 45% of the general gender gap for the 2 lowest quartiles and between 60% to 38% across all quartiles. So, we can say that the bonus wage gender gap is a very important factor to take into consideration when discussing the possible solutions to adjust the gender wage gap.
+<br>
+<br>
+See the full report here</p>
 </p> 
 
