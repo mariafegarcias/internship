@@ -36,7 +36,7 @@
 <p class="pretext" >Projects</p>
 
 <div class="neuralwrapper">
-    <a href="./pse"><img src="images/pse.jpeg?raw=true" alt="neural network" class="blur"/></a>
+    <a href="./projects"><img src="images/pse.jpeg?raw=true" alt="neural network" class="blur"/></a>
     <p class="neuraltext">Economical, environnemental, and statistical projects I have worked on. </p>
 </div>
 <br>
