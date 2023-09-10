@@ -5,9 +5,9 @@
 
 ---
 
-<div class="container">
+<div class="containerr">
   <div class="photo">
-    <img src="src="images/academie.png?raw=true"" alt="Methane Photo" />
+    <img src="images/academie.png?raw=true"" alt="Methane Photo" />
   </div>
   <div class="text">
     <h1 class="prestextarticle">Methane</h1>
