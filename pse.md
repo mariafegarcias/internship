@@ -30,6 +30,7 @@ To pursue my research, I analyzed the decomposition of the salary according to t
 <figcaption>Gender wage gap with/without bonus wage.</figcaption>
 </figure>
 <br>
-<p class="articletext">See the full report here.
+<p class="articletext">
+See the full report <a href="Rapport_de_stage.pdf">here</a>.
 </p> 
 
