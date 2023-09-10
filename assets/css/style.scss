@@ -35,7 +35,7 @@ body {
 }
 
 .text-column {
-  flex: 65%;
+  flex: 70%;
 }
 
 .photo-column {
@@ -48,6 +48,7 @@ body {
   border-radius: 80%;
   width: 80%;
   height: 80%;
+  flex-shrink: 0;
 }
 
 
