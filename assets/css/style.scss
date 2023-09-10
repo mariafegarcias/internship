@@ -4,11 +4,11 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Alata&family=Lora:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Gelasio&family=Maven+Pro&family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gelasio&family=Jost:wght@300&family=Maven+Pro&family=Satisfy&display=swap');
 
 body {
-  font-family:'Maven';
+  font-family:'Jost';
   color:white;
   background-color: #6FB3B8;  
 }
@@ -34,14 +34,14 @@ body {
   text-align: left;
   color: white;
   font-size: 1.40rem;
-  font-family:'Maven'
+  font-family:'Indie'
 }
 
 .prestextarticle {
   text-align: center;
   color: white;
   font-size: 1.60rem;
-  font-family:'Maven'
+  font-family:'Jost'
 }
 
 .prestextintrotitle {
@@ -76,7 +76,7 @@ section {
 .neurotext {
   opacity: 0;
   color: white;
-  font-family:'Maven';
+  font-family:'Jost';
   text-align: center;
   font-size: 1.75rem;
   overflow: hidden;
@@ -245,7 +245,7 @@ filter: white;
 .articletext {
   opacity: 1;
   color: white;
-  font-family:'Gelasio';
+  font-family:'Jost';
   text-align: center;
   font-size: 1rem;
   overflow: hidden;
