@@ -6,7 +6,7 @@
 ---
 <h1 class="prestextarticle">Politics of Methane</h1>
 <div class="containerr">
-      <div  class="profilepic2" img src="images/academie.png?raw=true" alt="methane"/>
+      <div img src="images/academie.png?raw=true" class="profilepic2" alt="methane"/>
       </div>
       <p class="articletext">
 This project was organized by PSL University and the Climate Academy managed by Paris City Hall. The politics of the methane project is an interdisciplinary project between the scientific and the political view on the methane topic. The main goal was to explore the problem through all of its dimensions to understand its complexity. For this research, a group of 10 students including myself, did many interviews with different actors on the subject such as policy makers at local and national scale, farmers, political negotiators at an international scale, population and civils. In the report, we highlighted many controversial aspects of the discussion about reducing methane emissions as well as possible policy limitations within the methane public administration. A final presentation took place to vulgarize all of these notions to college students.
