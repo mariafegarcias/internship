@@ -31,11 +31,23 @@ body {
 }
 
 .containerr {
- display: grid;
- align-items: center; 
- grid-template-columns: 1fr 1fr 1fr;
- column-gap: 5px;
+  display: flex;
 }
+
+.text-column {
+  flex: 70%;
+}
+
+.photo-column {
+  flex: 30%;
+}
+
+.profilepic2 {
+  border-radius: 80%;
+  width: 30%;
+  height: 30%;
+}
+
 
 .photo {
   border-radius: 50%;
@@ -207,16 +219,6 @@ filter: white;
   border-radius: 80%;
   width: 100%;
   height: 100%;
-}
-
-.profilepic2 {
-  border-radius: 80%;
-  width: 30%;
-  height: 30%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
 }
 
 
