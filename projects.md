@@ -29,6 +29,7 @@
     <p class="articletext">
     This programmation project was organized by PSL and the Commission on Energy Regulation (CRE). The goal is to explore the different possible scenarios to consider the energetic transition of France. With my teammate, Elise Thai, we explored a monopolistic energy scenario for France. In other terms, how much would it cost for France to become energy independent? Is it even possible? To answer these questions we manipulated a Python simulation of the energy market by cutting all energy purchases from other European countries and by increasing our home nuclear energy production. The results show that this scenario wouldn’t be possible …
       <br> 
+      <br> 
       See the full report <a href="Rapport sur le méthane - écriture finale.pdf">here</a>.
     </p>
   </div>
@@ -46,7 +47,8 @@
     <h1 class="prestextarticle">De-dollarization in Peru</h1>
     <p class="articletext">
     This research paper on the economic policies of the Central Reserve Bank of Peru between 2014 to 2022 deals with the topic of de-dollarization. The 2015 wave of de-dollarization pushed developing countries to incentivize the use of their own currency in their territory. In this research paper, I did a literature review of the article concerning the incredible success of the process of de-dollarization of Peru.
-    <br>
+    <br> 
+    <br> 
     See the full report <a href="Macro.pdf">here</a>.
         </p>
   </div>
