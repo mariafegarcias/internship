@@ -30,6 +30,27 @@ body {
   text-align: left;
 }
 
+.containerr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.photo {
+  border-radius: 50%;
+  overflow: hidden;
+  flex-shrink: 0; /* This prevents the photo from shrinking */
+}
+
+.photo img {
+  width: 150px; /* Adjust the size as needed */
+}
+
+.text {
+  flex-grow: 1;
+}
+
 .prestextintro {
   text-align: left;
   color: white;
