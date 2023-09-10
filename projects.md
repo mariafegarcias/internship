@@ -6,7 +6,7 @@
 ---
 
 <figure>
-<img src="images/academie.png?raw=true" alt="methane" class="profilepic"/>
+<img src="images/academie.png?raw=true" alt="methane" class="profilepic2"/>
 </figure>
 
 <h1 class="prestextarticle">Politics of Methane</h1>
@@ -15,7 +15,6 @@ This project was organized by PSL University and the Climate Academy managed by 
       <br />
       See the full report <a href="link_to_full_report">here</a>.
     </p>
-</div>
 
 ----
 <h1 class="prestextarticle">Energy market</h1>
