@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Alata&family=Lora:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Indie+Flower&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gelasio&family=Jost:wght@300&family=Maven+Pro&family=Satisfy&display=swap');
 
 body {
@@ -41,14 +41,14 @@ body {
   text-align: center;
   color: white;
   font-size: 1.60rem;
-  font-family:'Jost'
+  font-family:'Satisfy'
 }
 
 .prestextintrotitle {
   text-align: left;
   color: white;
   font-size: 1.95rem;
-  font-family:'Indie'
+  font-family:'Courgette'
 }
 
 
@@ -256,7 +256,7 @@ filter: white;
 .pretext {
   opacity: 1;
   color: white;
-  font-family:'Indie';
+  font-family:'Courgette';
   font-size: 3rem;
   overflow: hidden;
   text-align: center;
