@@ -17,9 +17,17 @@ My first mission during this internship was mainly to clean the data of the gend
 <p class="articletext">
 Moreover for my internship report I conducted my own research on the “She-Cession” of 2019. Studies show that women’s salaries shrink more than men due to three main reasons: maternity, women helding most of their jobs in the service sector which was shut down during Covid, and the big proportion of partial jobs that were more vulnerable during the crisis. However, the results of my research show that women who didn’t fulfill these cases, young engineering graduate female students with no children in the labor market, were also strongly affected in comparison to their male counterparts by a decrease in their salary. 
 <br>
+<figure>
+<img src="images/graph1?raw=true" alt="graph1" class="imgarticle"/>
+<figcaption>Evolution of wage gap from 2025 to 2019.</figcaption>
+</figure>
 <br>
 To pursue my research, I analyzed the decomposition of the salary according to the data I had. Finding showed that the bonus wage had a very important weight in this gender gap. To evaluate the weight of the bonus wage in the general gender gap I did a quartile decomposition. The bonus wage gender gap explains around 60% to 45% of the general gender gap for the 2 lowest quartiles and between 60% to 38% across all quartiles. So, we can say that the bonus wage gender gap is a very important factor to take into consideration when discussing the possible solutions to adjust the gender wage gap.
 <br>
+<figure>
+<img src="images/table1?raw=true" alt="table1" class="imgarticle"/>
+<figcaption>Gender wage gap with/without bonus wage.</figcaption>
+</figure>
 <br>
 See the full report here.
 </p> 
