@@ -41,16 +41,20 @@ body {
 
 .photo-column {
   flex: 30%;
+  display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .profilepic2 {
-  border-radius: 80%;
-  width: 80%;
-  height: 60%;
-  flex-shrink: 0;
+  border-radius: 80%; /* This will make the photo a perfect circle */
+  width: 100%; /* Adjust as needed */
+  height: 100%; /* Adjust as needed */
+  max-width: 100%; /* Ensure the photo doesn't exceed its container */
+  max-height: 100%; /* Ensure the photo doesn't exceed its container */
+  object-fit: cover; /* Ensure the photo covers the container without stretching */
 }
+
 
 
 .photo {
