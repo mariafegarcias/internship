@@ -6,7 +6,7 @@
 ---
 
 <div class="profilepic">
-    <img src="images/psl.png?raw=true" alt="Methane Photo" />
+    <img src="images/academie.png?raw=true" alt="Methane Photo" />
   </div>
   <div class="column-container">
     <h1 class="prestextarticle">Methane</h1>
