@@ -11,12 +11,19 @@
 <br> 
 
 ---
-
-<p class="pretext" >PSE Internship</p>
+<p class="pretext" >Future internships</p>
 
 <div class="neuralwrapper">
     <a href="./pse"><img src="images/pse.png?raw=true" alt="neural network" class="blur"/></a>
     <p class="neuraltext">Internship as a Research Assistant at Paris School of Economics.</p>
+</div>
+<br>
+
+<p class="pretext" >PSE Internship</p>
+
+<div class="neuralwrapper">
+    <a href="./BCRP"><img src="images/BCRP.png?raw=true" alt="neural network" class="blur"/></a>
+    <p class="neuraltext">Future summer internship in the Central Bank of the Reserve of Peru.</p>
 </div>
 <br>
 
