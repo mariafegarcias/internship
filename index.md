@@ -52,8 +52,13 @@
 
 ---
 
+<p class="pretext" >About me</p>
 
+<div class="neuralwrapper">
+    <a href="./aboutme"><img src="images/irises.webp?raw=true" alt="neural network" class="blur"/></a>
+    <p class="neuraltext">Amateur on art.</p>
+</div>
+<br>
 
-
-
+---
 
