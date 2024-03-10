@@ -12,6 +12,3 @@
 
 <br>
 <img src="images/dengue.webp?raw=true" alt="dengue" class="imgarticle"/>
-  </div>
-</div>
-
