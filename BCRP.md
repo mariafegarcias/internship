@@ -6,7 +6,7 @@
 ---
 <div class="containerr">
   <div class="text-column">
-    <h1 class="prestextarticle">Politics of Methane</h1>
+    <h1 class="prestextarticle">Economic and social effects of the dengeu fever in Peru</h1>
     <p class="articletext">
       Since 2020, COVID-19 cases have been rising. According to UNICEF, 34 000 cases of dengue fever have been identified over the third semester of 2023. The CDC 
 https://www.cdc.gov/mmwr/volumes/73/wr/mm7304a4_ensp.htm#:~:text=En%20general%2C%20se%20notificaron%20381,%5BCFR%5D%20%3D%200.17%25).
