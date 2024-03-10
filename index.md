@@ -11,7 +11,7 @@
 <br> 
 
 ---
-<p class="pretext" >Future internships</p>
+<p class="pretext" >Summer internship</p>
 
 <div class="neuralwrapper">
     <a href="./BCRP"><img src="images/BCRP.png?raw=true" alt="neural network" class="blur"/></a>
@@ -21,6 +21,15 @@
 
 ---
 
+<p class="pretext" >Future internship </p>
+
+<div class="neuralwrapper">
+    <a href="./IRD"><img src="images/IRD.png?raw=true" alt="neural network" class="blur"/></a>
+    <p class="neuraltext">Future internship at the Institute of Research for Development in Paris.</p>
+</div>
+<br>
+
+---
 <p class="pretext" >PSE Internship</p>
 
 <div class="neuralwrapper">
