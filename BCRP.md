@@ -21,7 +21,7 @@ Even though the situation is pretty alarming, little academic evidence on the su
 
       <br> 
       <br> 
-      See the full report <a href="methane.pdf">here</a>.
+      
     </p>
   </div>
   <div class="photo-column">
