@@ -8,9 +8,7 @@
   <div class="text-column">
     <h1 class="prestextarticle">Economic and social effects of the dengeu fever in Peru</h1>
     <p class="articletext">
-      Since 2020, COVID-19 cases have been rising. According to UNICEF, 34 000 cases of dengue fever have been identified over the third semester of 2023. The CDC 
-https://www.cdc.gov/mmwr/volumes/73/wr/mm7304a4_ensp.htm#:~:text=En%20general%2C%20se%20notificaron%20381,%5BCFR%5D%20%3D%200.17%25).
-identified on march 2023, 83 254 casos probables y 139,366 casos confirmado de dengue making in it the biggest dengue fever outbreak registered throughout Peru 's history.
+      Since 2020, COVID-19 cases have been rising. According to UNICEF, 34 000 cases of dengue fever have been identified over the third semester of 2023. On march 2023 the CDC reported <a href="https://www.cdc.gov/mmwr/volumes/73/wr/mm7304a4_ensp.htm#:~:text=En%20general%2C%20se%20notificaron%20381,%5BCFR%5D%20%3D%200.17%25)"> 83,254 probable cases and 139,366 confirmed cases of dengue fever making it the biggest dengue fever outbreak registered throughout Peru 's history.
 
 Epidemic risk os one of the major triggers of a global catastrophic risk according to 80,000
 https://80000hours.org/podcast/episodes/tom-inglesby-health-security/
