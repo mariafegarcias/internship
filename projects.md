@@ -8,7 +8,7 @@
   <div class="text-column">
     <h1 class="prestextarticle">Politics of Methane</h1>
     <p class="articletext">
-      This project was organized by PSL University and the Climate Academy managed by Paris City Hall. The main goal was to explore the problem through all of its dimensions to understand its complexity using voth political and scientifical knowledge. For this research, a group of 10 students including myself, did many interviews with different actors on the subject such as policy makers at local and national scale, farmers and scientifics. This was a group project done by <a href=":https://www.linkedin.com/in/elise-thai-092543212/> Elise Thai</a>, Manon Bleuzen, Robin Frenet, Charlotte Touzeau, Manon Le Teuff, Mathilde Branchet, Clément Bellin, Valentine Baudry et Alfred Pavret De La Rochefordière. 
+      This project was organized by PSL University and the Climate Academy managed by Paris City Hall. The main goal was to explore the problem through all of its dimensions to understand its complexity using voth political and scientifical knowledge. For this research, a group of 10 students including myself, did many interviews with different actors on the subject such as policy makers at local and national scale, farmers and scientifics. This was a group project done by <a href="https://www.linkedin.com/in/elise-thai-092543212/">Elise Thai</a>, Manon Bleuzen, Robin Frenet, Charlotte Touzeau, Manon Le Teuff, Mathilde Branchet, Clément Bellin, Valentine Baudry et Alfred Pavret De La Rochefordière. 
       <br> 
       <br> 
       See the full report <a href="methane.pdf">here</a>.
