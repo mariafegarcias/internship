@@ -46,8 +46,7 @@
     <h1 class="prestextarticle">Summer school Dinard (2022)</h1>
     <p class="articletext">
       Field studies on land-use planning and biodiversity issues, with the aim of with a view to flexible coastline management. We visited multiple sites and actors (mussels farmer, tidal power dam, territory manager, foresters...). 
-      <br> 
-      <br> 
+      <br>  
     </p>
   </div>
   <div class="photo-column">
