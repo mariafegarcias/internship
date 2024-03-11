@@ -51,7 +51,7 @@
   </div>
   <div class="photo-column">
     <div class="profilepic2">
-      <img src="images/EPHE.png?raw=true" alt="EPHE" class="profilepic2"/>
+      <img src="images/EPHE.png?raw=true" alt="EPHE1" class="profilepic2"/>
     </div>
   </div>
 </div>
