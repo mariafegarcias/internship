@@ -8,7 +8,7 @@
   <div class="text-column">
     <h1 class="prestextarticle">Politics of Methane</h1>
     <p class="articletext">
-      This project was organized by PSL University and the Climate Academy managed by Paris City Hall. The main goal was to explore the problem through all of its dimensions to understand its complexity using voth political and scientifical knowledge. For this research, a group of 10 students including myself, did many interviews with different actors on the subject such as policy makers at local and national scale, farmers and scientifics. This was a group project done by: Elise Thai, Manon Bleuzen, Robin Frenet, Charlotte Touzeau, Manon Le Teuff, Mathilde Branchet, Clément Bellin, Valentine Baudry et Alfred Pavret De La Rochefordière. 
+      This project was organized by PSL University and the Climate Academy managed by Paris City Hall. The main goal was to explore the problem through all of its dimensions to understand its complexity using voth political and scientifical knowledge. For this research, a group of 10 students including myself, did many interviews with different actors on the subject such as policy makers at local and national scale, farmers and scientifics. This was a group project done by <a href=":https://www.linkedin.com/in/elise-thai-092543212/> Elise Thai</a>, Manon Bleuzen, Robin Frenet, Charlotte Touzeau, Manon Le Teuff, Mathilde Branchet, Clément Bellin, Valentine Baudry et Alfred Pavret De La Rochefordière. 
       <br> 
       <br> 
       See the full report <a href="methane.pdf">here</a>.
@@ -45,6 +45,25 @@
 <div class="containerr">
   <div class="text-column">
     <h1 class="prestextarticle">De-dollarization in Peru</h1>
+    <p class="articletext">
+    This research paper on the economic policies of the Central Reserve Bank of Peru between 2014 to 2022 deals with the topic of de-dollarization. The 2015 wave of de-dollarization pushed developing countries to incentivize the use of their own currency in their territory. In this research paper, I did a literature review of the article concerning the incredible success of the process of de-dollarization of Peru.
+    <br> 
+    <br> 
+    See the full report <a href="Macro.pdf">here</a>.
+        </p>
+  </div>
+  <div class="photo-column">
+    <div class="profilepic2">
+      <img src="images/dollar.png?raw=true" alt="cre" class="profilepic2"/>
+    </div>
+  </div>
+</div>
+
+
+---
+<div class="containerr">
+  <div class="text-column">
+    <h1 class="prestextarticle">Low emissions zones</h1>
     <p class="articletext">
     This research paper on the economic policies of the Central Reserve Bank of Peru between 2014 to 2022 deals with the topic of de-dollarization. The 2015 wave of de-dollarization pushed developing countries to incentivize the use of their own currency in their territory. In this research paper, I did a literature review of the article concerning the incredible success of the process of de-dollarization of Peru.
     <br> 
