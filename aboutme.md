@@ -3,8 +3,7 @@
 <h1 class="prestextarticle">Introduction</h1>
 
 <p class="articletext">
-Pendant mes études supérieures j’ai commencé à développer une grande passion pour l’art à travers mes nombreuses visites au musée. Je réservais une demi-journée toutes les semaines de mon créneau assez débordé, pour me consacrer entièrement à une galerie et m’immerger dans le monde de la peinture. Ces visites m’ont permis de construire une sensibilité visuelle aux différentes techniques utilisées par les grands peintres mais aussi d’apprendre à restituer l’histoire derrière pour situer la peinture dans son contexte respectif. Ayant fait le tour des musées sur Paris, j’ai réservé mes vacances pour passer des séjours dans des villes avec une forte culture artistique. Londres, Ámsterdam, Madrid, ont étendu mes connaissances sur l’histoire de l’art hors du contexte français pour m’aider à construire une vision très globale du monde artistique.  
-
+During my university studies, I began to develop a great passion for art through my many visits to museums. I used to set aside half a day every week of my busy schedule, to devote myself entirely to a gallery and immerse myself in the world of painting. These visits enabled me to build up a visual sensitivity to the different techniques used by the great painters, but also to learn how to reconstruct the history behind them to situate the paintings in their respective contexts. Having visited all the museums in Paris, I booked my vacations to spend in cities with a strong artistic culture. London, Amsterdam and Madrid extended my knowledge of art history beyond the French context, helping me to build up a very global vision of the art world.
 ---
 <div class="containerr">
   <div class="text-column">
