@@ -48,7 +48,6 @@
       Field studies on land-use planning and biodiversity issues, with the aim of with a view to flexible coastline management. We visited multiple sites and actors (mussels farmer, tidal power dam, territory manager, foresters...). 
       <br> 
       <br> 
-      See the full report <a href="methane.pdf">here</a>.
     </p>
   </div>
   <div class="photo-column">
@@ -85,7 +84,6 @@
     This 6 week project aimed to study the controversy surrounding the implementation of low emission zones also known as "LZE" in France. A low emission zone is defined as a zone in which only cars that respect some specfic criteria (Crit'Air) are allowed to circulate. In the French case, the criteria is based only on the age of the vehicle. The goal of the LZE is to improve the air quality of cities that are exceeding the threshold established by the Ministry of the Ecological Transition to protect the health of the population. The project consisted of multiple weeks of litterature research, starting to dig into the media press, then into the tehcnical and administratives reports and finally the academic research. Hence, we acquired a broad approach of the members contributing to this topic in the citizen, political and academic sphere. The participants of this project are: <a href="https://www.linkedin.com/in/elise-thai-092543212/">Elise Thai</a>,<a href="https://www.linkedin.com/in/clara-sefzig-70357a238/">Clara Sefzig</a>, <a href="https://www.linkedin.com/in/elisa-bornscheuer-403856273/">Elisa Bornscheuer</a>,<a href="https://www.linkedin.com/in/lucie-açarq-932674235/">Lucie Açarq</a>, and <a href="https://www.linkedin.com/in/emily-zajac-30919b217/">Emily Zajac</a>. Our tutor, <a href="https://www.linkedin.com/in/emily-zajac-30919b217/">Nicolas Delaffon</a> oriented us during this whole project and we would like to thank him for his precious advice. 
     <br> 
     <br> 
-    See the full report <a href="Macro.pdf">here</a>.
         </p>
   </div>
   <div class="photo-column">
