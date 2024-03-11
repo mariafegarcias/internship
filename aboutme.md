@@ -4,7 +4,7 @@
 
 <p class="articletext">
 During my university studies, I began to develop a great passion for art through my many visits to museums. I used to set aside half a day every week of my busy schedule, to devote myself entirely to a gallery and immerse myself in the world of painting. These visits enabled me to build up a visual sensitivity to the different techniques used by the great painters, but also to learn how to reconstruct the history behind them to situate the paintings in their respective contexts. Having visited all the museums in Paris, I booked my vacations to spend in cities with a strong artistic culture. London, Amsterdam and Madrid extended my knowledge of art history beyond the French context, helping me to build up a very global vision of the art world.
----
+
 <div class="containerr">
   <div class="text-column">
     <h1 class="prestextarticle">Ecole du Louvre (auditeur libre)</h1>
