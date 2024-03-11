@@ -14,7 +14,7 @@
 <p class="pretext" >Summer internship</p>
 
 <div class="neuralwrapper">
-    <a href="./BCRP"><img src="images/Banco.png?raw=true" alt="neural network" class="blur"/></a>
+    <a href="./Banco"><img src="images/Banco.png?raw=true" alt="neural network" class="blur"/></a>
     <p class="neuraltext">Future summer internship in the Central Bank of the Reserve of Peru.</p>
 </div>
 <br>
