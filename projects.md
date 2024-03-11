@@ -45,7 +45,7 @@
   <div class="text-column">
     <h1 class="prestextarticle">Summer school Dinard (2022)</h1>
     <p class="articletext">
-      Field studies on land-use planning and biodiversity issues, with the aim of with a view to flexible coastline management. We visited multiple sites and actors (mussels farmer, tidal power dam, territory manager, foresters...). 
+     Field trip aiming to study coastline resource management in Dinard. Our final report examined the impact of overfishing and overexploitation on mussel farming. Mussels are a vital food resource in the region, and due to their nutritional value, they could play a crucial role in our transition towards more sustainable eating habits. Therefore, we conducted interviews with various stakeholders, including mussel farmers, tidal power dam operators, and territory managers, to gain a comprehensive understanding of the challenges facing mussel farming. This report was created with <a href="https://www.linkedin.com/in/clara-sefzig-70357a238/">Clara Sefzig</a> and <a href="https://www.linkedin.com/in/elisa-bornscheuer-403856273/">Elisa Bornscheuer</a>.
       <br>  
     </p>
   </div>
