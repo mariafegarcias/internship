@@ -6,7 +6,7 @@
 
 <div class="neuralwrapper">
     <a href="https://www.psl.eu/formation/sciences-monde-durable"><img src="images/psl.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Pluridisciplinary bachelor centered around sustainability topics.</p>
+    <p class="neuraltext">Pluridisciplinary bachelor centered around sustainability topics from 2021 to 2024.</p>
 </div>
 <br> 
 
@@ -15,7 +15,7 @@
 
 <div class="neuralwrapper">
     <a href="https://www.parisschoolofeconomics.eu/formation/masters/master-politiques-publiques-et-developpement/"><img src="images/pse.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext"> Master in Economics applied on Public Policies and Development.</p>
+    <p class="neuraltext"> Master in Economics applied on Public Policies and Development from 2024 to 2026.</p>
 </div>
 <br> 
 
@@ -24,7 +24,7 @@
 
 <div class="neuralwrapper">
     <a href="./Banco"><img src="images/Banco.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Summer internship in the Central Bank of the Reserve of Peru.</p>
+    <p class="neuraltext"> Summer internship in the Central Bank of the Reserve of Peru from July to August 2024.</p>
 </div>
 <br>
 
@@ -34,7 +34,7 @@
 
 <div class="neuralwrapper">
     <a href="./IRD"><img src="images/IRD.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Future internship at the Institute of Research for Development in Paris.</p>
+    <p class="neuraltext">Future internship at the Institute of Research for Development in Paris from March to May 2024.</p>
 </div>
 <br>
 
@@ -43,7 +43,7 @@
 
 <div class="neuralwrapper">
     <a href="./pse"><img src="images/pse.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Internship as a Research Assistant at Paris School of Economics.</p>
+    <p class="neuraltext">Internship as a Research Assistant at Paris School of Economics from December 2022 to May 2023.</p>
 </div>
 <br>
 
