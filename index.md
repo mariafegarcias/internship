@@ -21,7 +21,7 @@
 
 ---
 
-<p class="pretext" >Future internship </p>
+<p class="pretext" > Internship </p>
 
 <div class="neuralwrapper">
     <a href="./IRD"><img src="images/IRD.png?raw=true" alt="neural network" class="blur"/></a>
