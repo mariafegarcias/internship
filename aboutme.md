@@ -11,7 +11,7 @@ During my university studies, I began to develop a great passion for art through
   <div class="text-column">
     <h1 class="prestextarticle">Ecole du Louvre (auditeur libre)</h1>
     <p class="articletext">
-      During the 2022-2023 academic year I followed the cours "Histoire Générale de l'Art" as an free listener. I really enjoyed the content of this course aince it allowed me to acquired the fundamental knowledge to understand art history throughout different time periods. Also, during my summer vacations, I was lucky enough to be able to attend summer courses at the École du Louvre to learn more about artists such as Van Gogh, Goya and Picasso, as well as some important periods in the history of French art, such as "the Grand Tour des artistes en voyageurs français en Italie", or more specific themes such as the technique of pastels.
+      During the 2022-2023 academic year I followed the cours "Histoire Générale de l'Art" as an free listener. I really enjoyed the content of this course since it allowed me to acquired the fundamental knowledge to understand art history throughout different time periods. Also, during my summer vacations, I was lucky enough to be able to attend summer courses at the École du Louvre to learn more about artists such as Van Gogh, Goya and Picasso, as well as some important periods in the history of French art, such as "the Grand Tour des artistes en voyageurs français en Italie", or more specific themes such as the technique of pastels.
       <br> 
     </p>
   </div>
