@@ -2,11 +2,20 @@
 ---
 
 ---
-<p class="pretext" >Sciences for a sustainable world</p>
+<p class="pretext" > Bachelor in sciences for a sustainable world</p>
 
 <div class="neuralwrapper">
     <a href="https://www.psl.eu/formation/sciences-monde-durable"><img src="images/psl.png?raw=true" alt="neural network" class="blur"/></a>
     <p class="neuraltext">Pluridisciplinary bachelor centered around sustainability topics.</p>
+</div>
+<br> 
+
+---
+<p class="pretext" > PPD Master degree </p>
+
+<div class="neuralwrapper">
+    <a href="https://www.parisschoolofeconomics.eu/formation/masters/master-politiques-publiques-et-developpement/"><img src="images/pse.png?raw=true" alt="neural network" class="blur"/></a>
+    <p class="neuraltext"> Master in Economics applied on Public Policies and Development.</p>
 </div>
 <br> 
 
