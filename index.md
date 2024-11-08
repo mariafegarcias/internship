@@ -28,6 +28,15 @@
 </div>
 <br>
 
+---
+
+<p class="pretext" >Projects</p>
+
+<div class="neuralwrapper">
+    <a href="./projects"><img src="images/proyecto.png?raw=true" alt="neural network" class="blur"/></a>
+    <p class="neuraltext">Economical, environnemental, and statistical projects I have worked on. </p>
+</div>
+<br>
 
 ---
 <p class="pretext" > Bachelor in sciences for a sustainable world</p>
@@ -47,16 +56,6 @@
 </div>
 <br>
 
-
----
-
-<p class="pretext" >Projects</p>
-
-<div class="neuralwrapper">
-    <a href="./projects"><img src="images/proyecto.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Economical, environnemental, and statistical projects I have worked on. </p>
-</div>
-<br>
 
 ---
 
