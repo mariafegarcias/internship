@@ -1,5 +1,5 @@
 
-<p class="pretext">Internship at the IRDK</p>
+<p class="pretext">Internship at the IRD</p>
 
 ---
 <div class="containerr">
