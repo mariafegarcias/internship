@@ -1,16 +1,6 @@
 ---
 ---
 
----
-<p class="pretext" > Bachelor in sciences for a sustainable world</p>
-
-<div class="neuralwrapper">
-    <a href="https://www.psl.eu/formation/sciences-monde-durable"><img src="images/psl.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Pluridisciplinary bachelor centered around sustainability topics from 2021 to 2024.</p>
-</div>
-<br> 
-
----
 <p class="pretext" > PPD Master degree </p>
 
 <div class="neuralwrapper">
@@ -34,9 +24,19 @@
 
 <div class="neuralwrapper">
     <a href="./IRD"><img src="images/IRD.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Future internship at the Institute of Research for Development in Paris from March to May 2024.</p>
+    <p class="neuraltext"> Internship at the Institute of Research for Development in Paris from March to May 2024.</p>
 </div>
 <br>
+
+
+---
+<p class="pretext" > Bachelor in sciences for a sustainable world</p>
+
+<div class="neuralwrapper">
+    <a href="https://www.psl.eu/formation/sciences-monde-durable"><img src="images/psl.png?raw=true" alt="neural network" class="blur"/></a>
+    <p class="neuraltext">Pluridisciplinary bachelor centered around sustainability topics from 2021 to 2024.</p>
+</div>
+<br> 
 
 ---
 <p class="pretext" >PSE Internship</p>
