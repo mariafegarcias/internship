@@ -15,5 +15,5 @@
 <br>
 See the report (condensed and Spanish version) <a href="Moneda.pdf">here</a>.
 <br>
-See the full report <a href="Article_final.pdf">here</a>.
+See the full report <a href="Article_final_bcrp.pdf">here</a>.
 </p> 
