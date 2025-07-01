@@ -59,16 +59,6 @@
 
 ---
 
-<p class="pretext" >Volunteering</p>
-
-<div class="neuralwrapper">
-    <a href="https://www.laescuelita-lima.org"><img src="images/escuelita.png?raw=true" alt="neural network" class="blur"/></a>
-    <p class="neuraltext">Volunteering in a shantytown in Lima, Peru with the ONG: La Escuelita.</p>
-</div>
-<br>
-
----
-
 <p class="pretext" >About me</p>
 
 <div class="neuralwrapper">
